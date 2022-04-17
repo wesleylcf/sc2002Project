@@ -1,0 +1,7 @@
+Spaghetti Bolognese|Parmesan, Parsley|22.0
+Margherita Pizza|Tomato Sauce, Mozzarella, Basil|20.0
+Wagyu Beef Burger|Semi-dried Tomatoes, Horseradish Aioli|25.0
+Mesclun Salad|Quinoa, Baby Radish, Lemon Dressing|12.5
+Artisinal Ice Cream|Vanilla, Strawberry or Chocolate|6.0
+Barley|Homemade, Choice of Hot or Cold|5.0
+ice cream|-|12.0

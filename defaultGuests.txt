@@ -1,0 +1,13 @@
+1|Ali|Bin|Singapore|Singaporean|91234567|MALE|LICENSE|Block 123 Sunshine Street 45|1234123412341234|123|12|2025
+2|Bala|Kumaran|Singapore|Singaporean|91234527|MALE|PASSPORT|Block 456 Sunshine Street 45|1234123412341234|122|12|2025
+3|Casper|Lee|Singapore|Singaporean|91234567|MALE|LICENSE|Block 789 Sunshine Street 45|1234123412341234|163|12|2025
+4|Dick|Lim|Singapore|Singaporean|91236367|MALE|PASSPORT|Block 926 Sunshine Street 45|1234123412341234|173|12|2025
+5|Eugene|Foo|Singapore|Singaporean|91264567|MALE|LICENSE|Block 124 Sunshine Street 45|1234123412341234|153|12|2025
+6|Frank|Fernandez|Singapore|Singaporean|96234567|MALE|PASSPORT|Block 282 Sunshine Street 45|1234123412341234|193|12|2025
+7|Greg|Lim|Singapore|Singaporean|91234566|MALE|LICENSE|Block 233 Sunshine Street 45|1234123412341234|103|12|2025
+8|Hugh|Powell|Singapore|Singaporean|91232567|MALE|PASSPORT|Block 523 Sunshine Street 45|1234123412341234|121|12|2025
+9|Ian|Tan|Singapore|Singaporean|91236267|MALE|LICENSE|Block 143 Sunshine Street 45|1234123412341234|129|12|2025
+10|Jim|Poh|Singapore|Singaporean|91674567|MALE|PASSPORT|Block 524 Sunshine Street 45|1234123412341234|163|12|2025
+11|Kim|Lim|Singapore|Singaporean|91674423|MALE|PASSPORT|Block 624 Sunshine Street 45|1234123412341234|111|12|2025
+12|Lauv|Neo|Singapore|Singaporean|91421667|MALE|PASSPORT|Block 724 Sunshine Street 45|1234123412341234|222|12|2025
+13|Manfred|Koh|Singapore|Singaporean|91221167|MALE|PASSPORT|Block 824 Sunshine Street 45|1234123412341234|333|12|2025
