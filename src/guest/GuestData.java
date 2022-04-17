@@ -1,10 +1,10 @@
 package guest;
 
-import java.util.Scanner;
-import hrps.*;
 import java.io.IOException;
 import java.util.HashMap;
-import java.util.ArrayList;
+import java.util.Scanner;
+
+import hrps.HRPS;
 
 /**
 * guest data manager

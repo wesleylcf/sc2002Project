@@ -2,7 +2,6 @@ package reservation;
 
 import java.util.ArrayList;
 import java.util.Date;
-import java.lang.Comparable;
 
 /**
 Booking entity class  

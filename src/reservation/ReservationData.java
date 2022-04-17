@@ -2,7 +2,7 @@ package reservation;
 import java.util.Collection;
 import java.util.HashMap;
 
-import exception.*;
+import exception.NoReservationFoundException;
 
 /**
 * Reservation Data class which holds some Data Structure which supports(create/read/readAll/update/delete)

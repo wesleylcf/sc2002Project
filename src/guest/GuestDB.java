@@ -1,17 +1,14 @@
 package guest;
 
-import java.io.IOException;
 import java.io.FileWriter;
+import java.io.IOException;
 import java.io.PrintWriter;
-
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.StringTokenizer;
 
 import database.DataBase;
 import database.HashMapDataBase;
-
-
-import java.util.HashMap;
 
 /**
 * manage the reading and writing of guest data in guest data base

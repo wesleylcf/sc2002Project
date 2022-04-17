@@ -1,9 +1,9 @@
 package guest;
 import java.util.Scanner;
 
+import hrps.ExceptionHandler;
 import hrps.HRPS;
-
-import hrps.*;
+import hrps.InputValidator;
 
 /**
 * Guest controller class

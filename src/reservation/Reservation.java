@@ -1,13 +1,13 @@
 package reservation;
-import guest.*;
-import exception.*;
-import hrps.*;
-import systemTime.*;
-
 import java.util.ArrayList;
 import java.util.Date;
-import java.util.Scanner;
-import java.text.*;
+
+import exception.InvalidStatusInteger;
+import exception.InvalidStatusString;
+import exception.NoGuestFoundException;
+import guest.Guest;
+import guest.GuestModel;
+import systemTime.SystemTime;
 
 
 

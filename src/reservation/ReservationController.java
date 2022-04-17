@@ -2,10 +2,9 @@ package reservation;
 
 import java.util.Scanner;
 
-import hrps.*;
-import exception.*;
-
-import java.util.InputMismatchException;
+import hrps.ExceptionHandler;
+import hrps.HRPS;
+import hrps.InputValidator;
 
 /**
 Reservation Controller class in charge of routing to various menus or functions in ReservationModel

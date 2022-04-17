@@ -1,10 +1,10 @@
 package reservation;
 
-import systemTime.*;
-import room.*;
 import java.util.ArrayList;
 
 import hrps.HRPS;
+import room.RoomModel;
+import systemTime.SystemTime;
 
 /**
 Reservation View class which modularizes all UI related functions like printing menus 

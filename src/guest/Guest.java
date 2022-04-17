@@ -1,9 +1,5 @@
 package guest;
 
-import java.util.Scanner;
-import java.util.ArrayList;
-import java.util.HashMap;
-
 enum Gender { MALE, FEMALE, OTHERS }
 enum Identity {LICENSE, PASSPORT, OTHERS}
 
